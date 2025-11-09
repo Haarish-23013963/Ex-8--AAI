@@ -1,5 +1,5 @@
- <H3>NAME: Hanshika Varthini R</H3>
-<H3>REGISTER NO: 212223240046</H3>
+ <H3>NAME: Haarish V</H3>
+<H3>REGISTER NO: 212223230067</H3>
 <H2>EX. NO.8</H2>
 <H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
 <H3>Aim:</H3> 
